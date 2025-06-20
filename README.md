@@ -23,3 +23,5 @@ What sets our approach apart is that we focused on finding insightful data that 
 specifically highlighting opportunities in emerging game genres. 
 By analyzing positive and negative reviews, we created a unique ranking system that reflects the ratio which can incentivize quality game development. 
 This analysis can guide developers in formulating strategies to leverage trending genres that would help them to create compelling games that are up to the standards of today's competitive gaming industry.
+
+Contributors: Regina Santos, Fernanda Rivera
